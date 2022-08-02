@@ -2,9 +2,9 @@
 
 ## Omnifood is a great food website that was built with HTML, CSS, and JavaScript
 
-This project is the final part of the course: Build Responsive Real-World Websites with HTML and CSS
+This project is the final part of the course: Build Responsive Real-World Websites with HTML and CSS.
 
-I learned over 11 sections how to use semantic HTML, flex-box, grid layout, some javascript code, deployment on Netlify and use its forms
+I learned over 11 sections how to use semantic HTML, flex-box, grid layout, some javascript code, deployment on Netlify and use its forms.
 
 ### The website contains:
 - Hero section
