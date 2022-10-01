@@ -19,7 +19,7 @@
 
 > You can do this project by following [This Course][course] by [Jonas Schmedtmann][jonas]...
 
-### [View my certificate on UDEMY][certificate]
+### [Certificate Link][certificate]
 
 ### [Live Demo][demo]
 
