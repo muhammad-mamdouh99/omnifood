@@ -19,16 +19,10 @@
 
 > You can do this project by following [This Course][course] by [Jonas Schmedtmann][jonas]...
 
-### [Certificate Link][certificate]
-
-### [Live Demo][demo]
-
 <!-- Links -->
 
 [course]: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
 [jonas]: https://www.udemy.com/user/jonasschmedtmann/
-[certificate]: https://www.udemy.com/certificate/UC-f6f8f768-fe8b-4fca-a3c6-061c706a41da/
-[demo]: https://omnifood-muhammad.netlify.app/
 
 <!-- Screen Shot -->
 
