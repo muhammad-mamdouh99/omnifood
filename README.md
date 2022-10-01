@@ -5,7 +5,7 @@
 - Responsive Website Using HTML, CSS and Javascript.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-### The website contains:
+### The website contains
 - Hero section
 - Featured in section
 - How it works section
