@@ -1,11 +1,11 @@
 # Omnifood
 
-### Responsive Omnifood Website
+### Responsive Omnifood Website:
 
 - Responsive Website Using HTML, CSS and Javascript.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-### The website contains
+### This website contains:
 - Hero section
 - Featured in section
 - How it works section
